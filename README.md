@@ -1,1 +1,1 @@
-# andan_project
+# О проекте
